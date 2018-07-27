@@ -1,6 +1,10 @@
 body 
 {
     background: url("../images/psy.jpeg");
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
     
    
 }
